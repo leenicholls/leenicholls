@@ -224,6 +224,7 @@ header ul a strong {
 }
 
 section {
+  background-color: f6f6f6;
   width:500px;
   float:right;
   padding-bottom:50px;
